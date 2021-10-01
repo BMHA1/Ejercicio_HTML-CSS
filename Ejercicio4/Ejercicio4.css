@@ -1,0 +1,64 @@
+body{margin: 0;
+background-color: rgba(231, 192, 143, 0.897);}
+h1{
+    background-color: coral;
+    margin-block-start: 0.0em;
+    margin-block-end: 0.0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h2{
+    color:darkcyan
+}
+h3{
+    color:darkcyan
+}
+p{
+    font-size: 20px;
+
+}
+.azul { 
+ color: darkcyan 
+}
+.lista{
+    list-style: none;
+}
+
+
+
+
+/* X
+
+y traductor - Resultados X
+
+Traductor de Goc
+
+Plato de la semana
+
+Berenjenas fritas */
+/* 
+Comensales: 4 personas
+
+Tiempo de reparación: 10 minutos
+
+Tiempo de cocción: 12 minutos
+
+Ingredientes:
+
+
+Preparación:
+
+Lavar las berenjenas.
+
+Cortarlas en rodajas.
+
+Espolvorearlas con sal.
+
+Dejar que suelten el agua durante 30 minutos. Enharizarlas, ponerlas a freir durante 5 minutos en aceite bien caliente.
+
+16
+
+24°C
+
+Soleado */
