@@ -1,0 +1,28 @@
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1, h2 {
+    color: #39bd44;
+}
+
+h3, span {
+    color: rgb(224, 146, 93);
+}
+
+section {
+    border: 1px rgb(189, 186, 186) solid;
+    background: linear-gradient(180deg, rgba(153, 151, 151, 0.073564459963673) 1%, rgba(223, 223, 221, 0.6225840678068102) 4%, rgba(223, 223, 221, 1) 96%, rgba(153, 151, 151, 1) 99%);
+}
+
+#color1 {
+    background-color: brown;
+}
+.contenedorcentral{
+    display: flex;
+    gap: 10px;
+}
+li{
+    list-style: none;
+}
