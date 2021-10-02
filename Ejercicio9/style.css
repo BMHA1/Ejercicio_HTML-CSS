@@ -14,7 +14,7 @@ body {
 }
 
 .titulo {
-    margin-left: 120px;
+    margin-left: 130px;
 }
 
 h1, h2 {
@@ -37,8 +37,6 @@ h3, span {
     display: flex;
     flex-direction: column;
     margin-top: 0px;
-    
-   
 }
 
 li {
@@ -46,16 +44,16 @@ li {
     list-style: none;
     margin-bottom: 8px;
     margin-left: 20px;
-    height:30px;
+    height: 30px;
     width: 100px;
     text-align: center;
-    padding-top:2px ;
+    padding-top: 2px;
     border: 2px solid rgb(150, 147, 147);
 }
 
 section {
-    border: 1px rgb(189, 186, 186) solid;
-    background: linear-gradient(180deg, rgba(153, 151, 151, 0.073564459963673) 1%, rgba(223, 223, 221, 0.6225840678068102) 4%, rgba(223, 223, 221, 1) 96%, rgba(153, 151, 151, 1) 99%);
+    border: 1px rgb(228, 224, 224) solid;
+    background: linear-gradient(180deg, rgba(240, 233, 233, 0.877) 1%, rgba(223, 223, 221, 0.6225840678068102) 4%, rgb(241, 241, 236) 96%, rgb(216, 208, 208) 99%);
     text-align: justify;
     margin-right: 15px;
     padding: 12px;
@@ -64,6 +62,7 @@ section {
 .color1 {
     background-color: brown;
 }
-a{
-    text-decoration:none;
+
+a {
+    text-decoration: none;
 }
